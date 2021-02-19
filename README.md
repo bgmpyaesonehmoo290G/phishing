@@ -4,4 +4,4 @@ Pyae Sone Hmoo
 # pkg install php
 # git clone https://github.com/bgmpyaesonehmoo290G/pyaesonehmoo
 # cd pyaesonehmoo
-# bash Pyae.sh
+# bash pyae.sh
