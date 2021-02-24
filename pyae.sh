@@ -1,6 +1,6 @@
 #!/bin/bash
 # Pyae Sone Hmoo
-
+clear 
 trap 'printf "\n";stop;exit 1' 2
 
 
